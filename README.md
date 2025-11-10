@@ -37,20 +37,20 @@ Demais parâmetros necessários para a automação (URLs, pastas, e-mail de dest
 É obrigatório ajustar este arquivo antes de rodar o robô.
 
 4. Instalação das dependências:
-Na raiz do projeto (PRJ_BUSCAESTABELECIMENTO), execute no terminal:
+Na raiz do projeto, execute no terminal:
 
    ```text
    pip install -e .
 
-Esse comando instala todas as dependências do projeto em modo “editável”, permitindo que você altere o código sem precisar reinstalar o pacote.
+   Esse comando instala todas as dependências do projeto em modo “editável”, permitindo que você altere o código sem precisar reinstalar o pacote.
 
 
 5. Como executar o robô:
 Ainda na raiz do projeto, execute:
 python bot.py
-O arquivo bot.py é o ponto de entrada da automação e inicia todo o fluxo (Init → Loop → End).
+O arquivo bot.py é o ponto de entrada da automação e inicia todo o fluxo (Init → Loop → Process → End).
 
-5. Agendamento:
+6. Agendamento:
 Para executar o robô de forma agendada, crie uma tarefa no Agendador de Tarefas do Windows com o horário desejado. O arquivo que deve ser executado é o run.bat, localizado dentro da pasta prj_BuscaEstabelecimento.
 
 
