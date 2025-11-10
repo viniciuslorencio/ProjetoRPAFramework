@@ -43,7 +43,7 @@ class LoopStation:
         """
         Maestro.write_log("Loop Station Started")
 
-        GetTransaction.execute() 
+        GetTransaction.execute(arg_boolFirstRun=True) 
                
         ids_processados = []  # Lista para armazenar os IDs processados
         
@@ -73,7 +73,8 @@ class LoopStation:
                                         
                     # Reinicia a quantidade de tentativas consecutivas
                     InitAllSettings.var_intQtdeItensConsecutiveExceptions = 0
-
+                    InitAllSettings.var_intQtdeItensProcessados += 1
+                    
                 except BusinessRuleException as err:
                     var_strTracebackErro = traceback.format_exc()
 
@@ -105,9 +106,9 @@ class LoopStation:
                     var_DadosXLSX = BancoAtualizador(InitAllSettings.var_strCaminhoBancoCSV)
                     var_DadosXLSX.update_fim(GetTransaction.var_dictQueueItem['ID'],var_strDatahoraInicio_Item,var_strDatahoraFim_Item,var_strCaminhoScreenshot,var_strStatus,var_strObservacao)
                     break
+
                 except TerminateException as err:
                     # Caso seja direcionado para esse tipoe de excecao significa que o processo nao precisou seguir até o final para resultar em sucesso, preciso ser parado previamente               
-                    
 
                     # Realiza update na tabela de dados do item e insere que ocorreu 
                     var_DadosXLSX.update_fim(GetTransaction.var_dictQueueItem['ID'],var_strDatahoraInicio_Item,var_strDatahoraFim_Item,var_strStatus,var_strObservacao)
@@ -149,8 +150,7 @@ class LoopStation:
                         var_strObservacao = "Houve um erro no processamento do item, segue caminho do print: " + var_strCaminhoScreenshot + " - Detalhes do erro: " + str(err)
                         var_DadosXLSX = BancoAtualizador(InitAllSettings.var_strCaminhoBancoCSV)
                         var_DadosXLSX.update_fim(GetTransaction.var_dictQueueItem['ID'],var_strDatahoraInicio_Item,var_strDatahoraFim_Item,var_strCaminhoScreenshot,var_strStatus,var_strObservacao)
-
-                        # var_DadosXLSX.update_fim(GetTransaction.var_dictQueueItem['ID'],var_strDatahoraInicio_Item,var_strDatahoraFim_Item,var_strStatus,var_strObservacao)
+                        InitAllSettings.var_intQtdeItensProcessados += 1
                         ids_processados.append(GetTransaction.var_dictQueueItem['ID'])
                         GetTransaction.execute() 
                         

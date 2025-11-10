@@ -1,0 +1,81 @@
+﻿2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,Iniciando execução do processo: prj_BuscaEstabelecimento,NONE
+2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,Initialization Started,NONE
+2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,A porcentagem de Memória RAM utilizada é de 87.1,NONE
+2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,A porcentagem de CPU utilizada é de 99.4,NONE
+2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,A porcentagem de Disco utilizada é de 99.0,NONE
+2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 0,NONE
+2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,Itens encontrados na fila antes de adicionar novos itens a fila: 0,NONE
+2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,Configurando SMTP do Gmail para envio,NONE
+2025-11-10 10:24:50,prj_BuscaEstabelecimento,-,INFO,SMTP do Gmail configurado com sucesso,NONE
+2025-11-10 10:24:50,prj_BuscaEstabelecimento,-,INFO,Montando e enviando e-mail inicial via Gmail,NONE
+2025-11-10 10:24:51,prj_BuscaEstabelecimento,-,INFO,E-mail inicial enviado com sucesso via Gmail,NONE
+2025-11-10 10:24:51,prj_BuscaEstabelecimento,-,INFO,"Finalizando processos, tentativa 1",NONE
+2025-11-10 10:24:51,prj_BuscaEstabelecimento,-,INFO,Finalizando processo: excel.exe,NONE
+2025-11-10 10:24:52,prj_BuscaEstabelecimento,-,INFO,Finalizando processo: winword.exe,NONE
+2025-11-10 10:24:53,prj_BuscaEstabelecimento,-,INFO,"Aplicativos finalizados, continuando processamento...",NONE
+2025-11-10 10:24:53,prj_BuscaEstabelecimento,-,INFO,Dados da fila inseridos com sucesso.,NONE
+2025-11-10 10:24:53,prj_BuscaEstabelecimento,-,INFO,InitAllApplications Started,NONE
+2025-11-10 10:24:53,prj_BuscaEstabelecimento,-,INFO,"Iniciando aplicativos, tentativa 1",NONE
+2025-11-10 10:24:53,prj_BuscaEstabelecimento,-,INFO,Iniciou abertura do Google Maps.,NONE
+2025-11-10 10:24:56,prj_BuscaEstabelecimento,-,INFO,Realizou a abertura do site:https://www.google.com/maps/,NONE
+2025-11-10 10:25:12,prj_BuscaEstabelecimento,-,INFO,InitAllApplications Finished,NONE
+2025-11-10 10:25:12,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 0,NONE
+2025-11-10 10:25:12,prj_BuscaEstabelecimento,-,INFO,Initialization Finished,NONE
+2025-11-10 10:25:12,prj_BuscaEstabelecimento,-,INFO,Loop Station Started,NONE
+2025-11-10 10:25:15,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 2,NONE
+2025-11-10 10:25:24,prj_BuscaEstabelecimento,-,INFO,0 itens processados de 2 totais para serem processados.,NONE
+2025-11-10 10:25:25,prj_BuscaEstabelecimento,-,INFO,"Executando item, Tipo: Academias, Cidade: Ribeirão Preto, SP.",NONE
+2025-11-10 10:25:31,prj_BuscaEstabelecimento,Academias,INFO,Tentativa: 1,NONE
+2025-11-10 10:25:31,prj_BuscaEstabelecimento,-,INFO,Process Started,NONE
+2025-11-10 10:25:31,prj_BuscaEstabelecimento,-,INFO,Iniciou a pesquisa por viagens.,NONE
+2025-11-10 10:25:32,prj_BuscaEstabelecimento,-,INFO,"Preencheu pesquisa com: Academias Ribeirão Preto, SP.",NONE
+2025-11-10 10:25:34,prj_BuscaEstabelecimento,-,INFO,Clicou em pesquisar.,NONE
+2025-11-10 10:25:38,prj_BuscaEstabelecimento,-,INFO,"A pesquisa Academias Ribeirão Preto, SP retornou resultado.",NONE
+2025-11-10 10:25:38,prj_BuscaEstabelecimento,-,INFO,Iniciou captura de valores.,NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Skalfit Academia,NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,6",NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 273,NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Av. Pres. Castelo Branco, 460 - Pres. Medici, Ribeirão Preto - SP, 14091-413",NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 16992991600,NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://skalfit.com.br,NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Realizou o carregamento da planilha: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110102431.xlsx,NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Dados salvos com sucesso.,NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Planilha gravada: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110102431.xlsx (sheet: Academias),NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Finalizou relatorio de estabelecimentos.,NONE
+2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Item com ID 1 atualizado com sucesso.,NONE
+2025-11-10 10:25:53,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 1,NONE
+2025-11-10 10:25:56,prj_BuscaEstabelecimento,-,INFO,1 itens processados de 1 totais para serem processados.,NONE
+2025-11-10 10:26:03,prj_BuscaEstabelecimento,-,INFO,"Executando item, Tipo: Igreja Batista, Cidade: São Paulo, SP.",NONE
+2025-11-10 10:26:05,prj_BuscaEstabelecimento,Igreja Batista,INFO,Tentativa: 1,NONE
+2025-11-10 10:26:05,prj_BuscaEstabelecimento,-,INFO,Process Started,NONE
+2025-11-10 10:26:05,prj_BuscaEstabelecimento,-,INFO,Iniciou a pesquisa por viagens.,NONE
+2025-11-10 10:26:05,prj_BuscaEstabelecimento,-,INFO,"Preencheu pesquisa com: Igreja Batista São Paulo, SP.",NONE
+2025-11-10 10:26:08,prj_BuscaEstabelecimento,-,INFO,Clicou em pesquisar.,NONE
+2025-11-10 10:26:12,prj_BuscaEstabelecimento,-,INFO,"A pesquisa Igreja Batista São Paulo, SP retornou resultado.",NONE
+2025-11-10 10:26:12,prj_BuscaEstabelecimento,-,INFO,Iniciou captura de valores.,NONE
+2025-11-10 10:26:20,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 10:26:20,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Igreja Batista São Paulo,NONE
+2025-11-10 10:26:20,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,8",NONE
+2025-11-10 10:26:20,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 34,NONE
+2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: R. Ferreira do Alentejo, 345 - Santo Amaro, São Paulo - SP, 04728-060",NONE
+2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 1156413399,NONE
+2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://batistasaopaulo.com.br,NONE
+2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Realizou o carregamento da planilha: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110102431.xlsx,NONE
+2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Dados salvos com sucesso.,NONE
+2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Planilha gravada: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110102431.xlsx (sheet: Igreja Batista),NONE
+2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Finalizou relatorio de estabelecimentos.,NONE
+2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Item com ID 2 atualizado com sucesso.,NONE
+2025-11-10 10:26:36,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 0,NONE
+2025-11-10 10:26:38,prj_BuscaEstabelecimento,-,INFO,Não há mais itens com status 'New'.,NONE
+2025-11-10 10:26:42,prj_BuscaEstabelecimento,-,INFO,Não existem itens a serem processados.,NONE
+2025-11-10 10:26:49,prj_BuscaEstabelecimento,-,INFO,Loop Station Finished,NONE
+2025-11-10 10:26:49,prj_BuscaEstabelecimento,-,INFO,End Process Started,NONE
+2025-11-10 10:26:49,prj_BuscaEstabelecimento,-,INFO,"Finalizando todos os processos, tentativa 1",NONE
+2025-11-10 10:26:50,prj_BuscaEstabelecimento,-,INFO,"Aplicativos finalizados, continuando processamento...",NONE
+2025-11-10 10:26:51,prj_BuscaEstabelecimento,-,INFO,Configurando SMTP do Gmail para envio,NONE
+2025-11-10 10:26:53,prj_BuscaEstabelecimento,-,INFO,SMTP do Gmail configurado com sucesso,NONE
+2025-11-10 10:26:55,prj_BuscaEstabelecimento,-,INFO,E-mail final com sucesso via Gmail,NONE
+2025-11-10 10:26:55,prj_BuscaEstabelecimento,-,INFO,Finalizando task.,NONE
+2025-11-10 10:26:55,prj_BuscaEstabelecimento,-,INFO,Task finalizada com sucesso.,NONE
+2025-11-10 10:26:55,prj_BuscaEstabelecimento,-,INFO,End Process Finished,NONE

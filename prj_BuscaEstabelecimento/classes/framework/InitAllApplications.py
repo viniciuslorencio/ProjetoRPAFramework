@@ -68,8 +68,6 @@ class InitAllApplications:
         # Leitura do JSON
         var_dtFilaFinal = pd.read_json(var_strCaminhoArquivoJson, orient='records')        
 
-        arg_boolFirstRun=True
-
         #Chama o método para subir a fila, apenas se for a primeira vez
         if(arg_boolFirstRun):
             # Realiza insert na planilha de gerenciamento fila              

@@ -4,9 +4,9 @@ from prj_BuscaEstabelecimento.classes.framework.InitAllSettings import InitAllSe
 
 
 # Imports dos pacotes externos
+import random, datetime, socket
 from datetime import datetime
 from enum import Enum
-import datetime
 import csv
 import os
 

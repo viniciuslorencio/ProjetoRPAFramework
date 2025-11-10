@@ -18,7 +18,7 @@ class GetTransaction:
     var_dictQueueItem:dict = None
 
     @classmethod
-    def execute(cls):
+    def execute(cls,arg_boolFirstRun=False):
         """
         Metodo de execução da captura de itens da fila.
         
@@ -27,9 +27,16 @@ class GetTransaction:
         Retorna:
 
         """
+
+            
+
+
+
         #Verifica a quantidade itens NEW
         var_ItensFila = BancoAtualizador(InitAllSettings.var_strCaminhoBancoCSV)
+
         var_intQtdItensAProcessarIniExec = var_ItensFila.contar_itens_status_new()
+
         cls.var_dictQueueItem = var_ItensFila.obter_proximo_item_status_new()
             
 
