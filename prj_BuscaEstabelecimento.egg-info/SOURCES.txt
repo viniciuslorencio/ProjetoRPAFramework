@@ -1,0 +1,7 @@
+README.md
+setup.py
+prj_BuscaEstabelecimento.egg-info/PKG-INFO
+prj_BuscaEstabelecimento.egg-info/SOURCES.txt
+prj_BuscaEstabelecimento.egg-info/dependency_links.txt
+prj_BuscaEstabelecimento.egg-info/requires.txt
+prj_BuscaEstabelecimento.egg-info/top_level.txt

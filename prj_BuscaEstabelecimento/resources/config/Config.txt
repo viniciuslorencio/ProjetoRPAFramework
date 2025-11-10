@@ -1,0 +1,21 @@
+NomeProcesso=
+DescricaoProcesso=
+EmailInicial=SIM
+EmailFinal=SIM
+EmailDestinatarios=
+EmailUser=rpaautomacaoteste@gmail.com
+EmailSenha=ogdt jvsb exze jped
+NomeArquivoJson=DadosProcessar.json
+CaminhoExceptionScreenshots=
+CaminhoPastaRelatorios=
+URL_Google=https://www.google.com/maps/
+MaxRetryNumber=3
+MaxConsecutiveSystemExceptions=3
+SmtpServer=smtp.gmail.com
+SmtpPort=587  
+
+
+
+
+
+
