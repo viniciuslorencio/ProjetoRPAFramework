@@ -1,81 +1,195 @@
-﻿2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,Iniciando execução do processo: prj_BuscaEstabelecimento,NONE
-2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,Initialization Started,NONE
-2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,A porcentagem de Memória RAM utilizada é de 87.1,NONE
-2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,A porcentagem de CPU utilizada é de 99.4,NONE
-2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,A porcentagem de Disco utilizada é de 99.0,NONE
-2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 0,NONE
-2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,Itens encontrados na fila antes de adicionar novos itens a fila: 0,NONE
-2025-11-10 10:24:48,prj_BuscaEstabelecimento,-,INFO,Configurando SMTP do Gmail para envio,NONE
-2025-11-10 10:24:50,prj_BuscaEstabelecimento,-,INFO,SMTP do Gmail configurado com sucesso,NONE
-2025-11-10 10:24:50,prj_BuscaEstabelecimento,-,INFO,Montando e enviando e-mail inicial via Gmail,NONE
-2025-11-10 10:24:51,prj_BuscaEstabelecimento,-,INFO,E-mail inicial enviado com sucesso via Gmail,NONE
-2025-11-10 10:24:51,prj_BuscaEstabelecimento,-,INFO,"Finalizando processos, tentativa 1",NONE
-2025-11-10 10:24:51,prj_BuscaEstabelecimento,-,INFO,Finalizando processo: excel.exe,NONE
-2025-11-10 10:24:52,prj_BuscaEstabelecimento,-,INFO,Finalizando processo: winword.exe,NONE
-2025-11-10 10:24:53,prj_BuscaEstabelecimento,-,INFO,"Aplicativos finalizados, continuando processamento...",NONE
-2025-11-10 10:24:53,prj_BuscaEstabelecimento,-,INFO,Dados da fila inseridos com sucesso.,NONE
-2025-11-10 10:24:53,prj_BuscaEstabelecimento,-,INFO,InitAllApplications Started,NONE
-2025-11-10 10:24:53,prj_BuscaEstabelecimento,-,INFO,"Iniciando aplicativos, tentativa 1",NONE
-2025-11-10 10:24:53,prj_BuscaEstabelecimento,-,INFO,Iniciou abertura do Google Maps.,NONE
-2025-11-10 10:24:56,prj_BuscaEstabelecimento,-,INFO,Realizou a abertura do site:https://www.google.com/maps/,NONE
-2025-11-10 10:25:12,prj_BuscaEstabelecimento,-,INFO,InitAllApplications Finished,NONE
-2025-11-10 10:25:12,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 0,NONE
-2025-11-10 10:25:12,prj_BuscaEstabelecimento,-,INFO,Initialization Finished,NONE
-2025-11-10 10:25:12,prj_BuscaEstabelecimento,-,INFO,Loop Station Started,NONE
-2025-11-10 10:25:15,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 2,NONE
-2025-11-10 10:25:24,prj_BuscaEstabelecimento,-,INFO,0 itens processados de 2 totais para serem processados.,NONE
-2025-11-10 10:25:25,prj_BuscaEstabelecimento,-,INFO,"Executando item, Tipo: Academias, Cidade: Ribeirão Preto, SP.",NONE
-2025-11-10 10:25:31,prj_BuscaEstabelecimento,Academias,INFO,Tentativa: 1,NONE
-2025-11-10 10:25:31,prj_BuscaEstabelecimento,-,INFO,Process Started,NONE
-2025-11-10 10:25:31,prj_BuscaEstabelecimento,-,INFO,Iniciou a pesquisa por viagens.,NONE
-2025-11-10 10:25:32,prj_BuscaEstabelecimento,-,INFO,"Preencheu pesquisa com: Academias Ribeirão Preto, SP.",NONE
-2025-11-10 10:25:34,prj_BuscaEstabelecimento,-,INFO,Clicou em pesquisar.,NONE
-2025-11-10 10:25:38,prj_BuscaEstabelecimento,-,INFO,"A pesquisa Academias Ribeirão Preto, SP retornou resultado.",NONE
-2025-11-10 10:25:38,prj_BuscaEstabelecimento,-,INFO,Iniciou captura de valores.,NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Skalfit Academia,NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,6",NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 273,NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Av. Pres. Castelo Branco, 460 - Pres. Medici, Ribeirão Preto - SP, 14091-413",NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 16992991600,NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://skalfit.com.br,NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Realizou o carregamento da planilha: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110102431.xlsx,NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Dados salvos com sucesso.,NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Planilha gravada: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110102431.xlsx (sheet: Academias),NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Finalizou relatorio de estabelecimentos.,NONE
-2025-11-10 10:25:45,prj_BuscaEstabelecimento,-,INFO,Item com ID 1 atualizado com sucesso.,NONE
-2025-11-10 10:25:53,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 1,NONE
-2025-11-10 10:25:56,prj_BuscaEstabelecimento,-,INFO,1 itens processados de 1 totais para serem processados.,NONE
-2025-11-10 10:26:03,prj_BuscaEstabelecimento,-,INFO,"Executando item, Tipo: Igreja Batista, Cidade: São Paulo, SP.",NONE
-2025-11-10 10:26:05,prj_BuscaEstabelecimento,Igreja Batista,INFO,Tentativa: 1,NONE
-2025-11-10 10:26:05,prj_BuscaEstabelecimento,-,INFO,Process Started,NONE
-2025-11-10 10:26:05,prj_BuscaEstabelecimento,-,INFO,Iniciou a pesquisa por viagens.,NONE
-2025-11-10 10:26:05,prj_BuscaEstabelecimento,-,INFO,"Preencheu pesquisa com: Igreja Batista São Paulo, SP.",NONE
-2025-11-10 10:26:08,prj_BuscaEstabelecimento,-,INFO,Clicou em pesquisar.,NONE
-2025-11-10 10:26:12,prj_BuscaEstabelecimento,-,INFO,"A pesquisa Igreja Batista São Paulo, SP retornou resultado.",NONE
-2025-11-10 10:26:12,prj_BuscaEstabelecimento,-,INFO,Iniciou captura de valores.,NONE
-2025-11-10 10:26:20,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
-2025-11-10 10:26:20,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Igreja Batista São Paulo,NONE
-2025-11-10 10:26:20,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,8",NONE
-2025-11-10 10:26:20,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 34,NONE
-2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: R. Ferreira do Alentejo, 345 - Santo Amaro, São Paulo - SP, 04728-060",NONE
-2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 1156413399,NONE
-2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://batistasaopaulo.com.br,NONE
-2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Realizou o carregamento da planilha: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110102431.xlsx,NONE
-2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Dados salvos com sucesso.,NONE
-2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Planilha gravada: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110102431.xlsx (sheet: Igreja Batista),NONE
-2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Finalizou relatorio de estabelecimentos.,NONE
-2025-11-10 10:26:21,prj_BuscaEstabelecimento,-,INFO,Item com ID 2 atualizado com sucesso.,NONE
-2025-11-10 10:26:36,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 0,NONE
-2025-11-10 10:26:38,prj_BuscaEstabelecimento,-,INFO,Não há mais itens com status 'New'.,NONE
-2025-11-10 10:26:42,prj_BuscaEstabelecimento,-,INFO,Não existem itens a serem processados.,NONE
-2025-11-10 10:26:49,prj_BuscaEstabelecimento,-,INFO,Loop Station Finished,NONE
-2025-11-10 10:26:49,prj_BuscaEstabelecimento,-,INFO,End Process Started,NONE
-2025-11-10 10:26:49,prj_BuscaEstabelecimento,-,INFO,"Finalizando todos os processos, tentativa 1",NONE
-2025-11-10 10:26:50,prj_BuscaEstabelecimento,-,INFO,"Aplicativos finalizados, continuando processamento...",NONE
-2025-11-10 10:26:51,prj_BuscaEstabelecimento,-,INFO,Configurando SMTP do Gmail para envio,NONE
-2025-11-10 10:26:53,prj_BuscaEstabelecimento,-,INFO,SMTP do Gmail configurado com sucesso,NONE
-2025-11-10 10:26:55,prj_BuscaEstabelecimento,-,INFO,E-mail final com sucesso via Gmail,NONE
-2025-11-10 10:26:55,prj_BuscaEstabelecimento,-,INFO,Finalizando task.,NONE
-2025-11-10 10:26:55,prj_BuscaEstabelecimento,-,INFO,Task finalizada com sucesso.,NONE
-2025-11-10 10:26:55,prj_BuscaEstabelecimento,-,INFO,End Process Finished,NONE
+﻿2025-11-10 13:08:31,prj_BuscaEstabelecimento,-,INFO,Iniciando execução do processo: prj_BuscaEstabelecimento,NONE
+2025-11-10 13:08:31,prj_BuscaEstabelecimento,-,INFO,Initialization Started,NONE
+2025-11-10 13:08:31,prj_BuscaEstabelecimento,-,INFO,A porcentagem de Memória RAM utilizada é de 84.3,NONE
+2025-11-10 13:08:31,prj_BuscaEstabelecimento,-,INFO,A porcentagem de CPU utilizada é de 30.2,NONE
+2025-11-10 13:08:31,prj_BuscaEstabelecimento,-,INFO,A porcentagem de Disco utilizada é de 97.5,NONE
+2025-11-10 13:08:31,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 0,NONE
+2025-11-10 13:08:31,prj_BuscaEstabelecimento,-,INFO,Itens encontrados na fila antes de adicionar novos itens a fila: 0,NONE
+2025-11-10 13:08:31,prj_BuscaEstabelecimento,-,INFO,Configurando SMTP do Gmail para envio,NONE
+2025-11-10 13:08:33,prj_BuscaEstabelecimento,-,INFO,SMTP do Gmail configurado com sucesso,NONE
+2025-11-10 13:08:33,prj_BuscaEstabelecimento,-,INFO,Montando e enviando e-mail inicial via Gmail,NONE
+2025-11-10 13:08:34,prj_BuscaEstabelecimento,-,INFO,E-mail inicial enviado com sucesso via Gmail,NONE
+2025-11-10 13:08:34,prj_BuscaEstabelecimento,-,INFO,"Finalizando processos, tentativa 1",NONE
+2025-11-10 13:08:34,prj_BuscaEstabelecimento,-,INFO,Finalizando processo: excel.exe,NONE
+2025-11-10 13:08:35,prj_BuscaEstabelecimento,-,INFO,Finalizando processo: winword.exe,NONE
+2025-11-10 13:08:36,prj_BuscaEstabelecimento,-,INFO,"Aplicativos finalizados, continuando processamento...",NONE
+2025-11-10 13:08:36,prj_BuscaEstabelecimento,-,INFO,Dados da fila inseridos com sucesso.,NONE
+2025-11-10 13:08:36,prj_BuscaEstabelecimento,-,INFO,InitAllApplications Started,NONE
+2025-11-10 13:08:36,prj_BuscaEstabelecimento,-,INFO,"Iniciando aplicativos, tentativa 1",NONE
+2025-11-10 13:08:36,prj_BuscaEstabelecimento,-,INFO,Iniciou abertura do Google Maps.,NONE
+2025-11-10 13:08:42,prj_BuscaEstabelecimento,-,INFO,Realizou a abertura do site:https://www.google.com/maps/,NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,-,INFO,InitAllApplications Finished,NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 0,NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,-,INFO,Initialization Finished,NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,-,INFO,Loop Station Started,NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 4,NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,-,INFO,0 itens processados de 4 totais para serem processados.,NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,-,INFO,"Executando item, Tipo: Academias, Cidade: Ribeirão Preto, SP.",NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,Academias,INFO,Tentativa: 1,NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,-,INFO,Process Started,NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,-,INFO,Iniciou a pesquisa por viagens.,NONE
+2025-11-10 13:08:58,prj_BuscaEstabelecimento,-,INFO,"Preencheu pesquisa com: Academias Ribeirão Preto, SP.",NONE
+2025-11-10 13:09:01,prj_BuscaEstabelecimento,-,INFO,Clicou em pesquisar.,NONE
+2025-11-10 13:09:05,prj_BuscaEstabelecimento,-,INFO,"A pesquisa Academias Ribeirão Preto, SP retornou resultado.",NONE
+2025-11-10 13:09:05,prj_BuscaEstabelecimento,-,INFO,Iniciou captura de valores.,NONE
+2025-11-10 13:09:10,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:09:10,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Bodytech - Shopping Iguatemi,NONE
+2025-11-10 13:09:10,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,5",NONE
+2025-11-10 13:09:10,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 229,NONE
+2025-11-10 13:09:10,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Av. Luiz Eduardo Toledo Prado, 900 - Vila do Golfe, Ribeirão Preto - SP, 14027-250",NONE
+2025-11-10 13:09:10,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 1639133705,NONE
+2025-11-10 13:09:10,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://bodytech.com.br,NONE
+2025-11-10 13:09:15,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:09:15,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Academia Smart Fit - Shopping Santa Úrsula,NONE
+2025-11-10 13:09:15,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,5",NONE
+2025-11-10 13:09:15,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 1.557,NONE
+2025-11-10 13:09:15,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: R. São José, 933 - Centro, Ribeirão Preto - SP, 14010-160",NONE
+2025-11-10 13:09:15,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: None,NONE
+2025-11-10 13:09:15,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://smartfit.com.br,NONE
+2025-11-10 13:09:20,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:09:20,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Skalfit Academia,NONE
+2025-11-10 13:09:20,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,6",NONE
+2025-11-10 13:09:20,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 273,NONE
+2025-11-10 13:09:20,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Av. Pres. Castelo Branco, 460 - Pres. Medici, Ribeirão Preto - SP, 14091-413",NONE
+2025-11-10 13:09:20,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 16992991600,NONE
+2025-11-10 13:09:20,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://skalfit.com.br,NONE
+2025-11-10 13:09:25,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:09:25,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Academia Triathlon,NONE
+2025-11-10 13:09:25,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,8",NONE
+2025-11-10 13:09:25,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 320,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Av. Dr. Plínio de Castro Prado, 844 - Jardim Palma Travassos, Ribeirão Preto - SP, 14091-160",NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 1636249311,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://academiatriathlon.com.br,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,Realizou o carregamento da planilha: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110130817.xlsx,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,Dados salvos com sucesso.,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,Planilha gravada: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110130817.xlsx (sheet: Academias),NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,Finalizou relatorio de estabelecimentos.,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,Item com ID 1 atualizado com sucesso.,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 3,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,1 itens processados de 3 totais para serem processados.,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,"Executando item, Tipo: Restaurantes, Cidade: Sorocaba, SP.",NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,Restaurantes,INFO,Tentativa: 1,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,Process Started,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,Iniciou a pesquisa por viagens.,NONE
+2025-11-10 13:09:26,prj_BuscaEstabelecimento,-,INFO,"Preencheu pesquisa com: Restaurantes Sorocaba, SP.",NONE
+2025-11-10 13:09:29,prj_BuscaEstabelecimento,-,INFO,Clicou em pesquisar.,NONE
+2025-11-10 13:09:32,prj_BuscaEstabelecimento,-,INFO,"A pesquisa Restaurantes Sorocaba, SP retornou resultado.",NONE
+2025-11-10 13:09:32,prj_BuscaEstabelecimento,-,INFO,Iniciou captura de valores.,NONE
+2025-11-10 13:09:37,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:09:37,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Dos Bacanas Bar,NONE
+2025-11-10 13:09:37,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,5",NONE
+2025-11-10 13:09:37,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 1.626,NONE
+2025-11-10 13:09:37,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Av. São Francisco, 343 - Jardim Santa Rosália, Sorocaba - SP, 18095-450",NONE
+2025-11-10 13:09:37,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 15991768004,NONE
+2025-11-10 13:09:37,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://dosbacanasbar.com.br,NONE
+2025-11-10 13:09:43,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:09:43,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Hioki Sushi Campolim,NONE
+2025-11-10 13:09:43,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,6",NONE
+2025-11-10 13:09:43,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 3.012,NONE
+2025-11-10 13:09:43,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Praça Nova York, 150 - Jardim America, Sorocaba - SP, 18046-775",NONE
+2025-11-10 13:09:43,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 1533593468,NONE
+2025-11-10 13:09:43,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://beacons.ai,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: La Doc Gastronomia,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,8",NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 1.338,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: R. Francisco Moron Fernandes, 216 - Parque Campolim, Sorocaba - SP, 18047-770",NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 1532244747,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://ladocgastronomia.com.br,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Realizou o carregamento da planilha: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110130817.xlsx,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Dados salvos com sucesso.,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Planilha gravada: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110130817.xlsx (sheet: Restaurantes),NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Finalizou relatorio de estabelecimentos.,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Item com ID 2 atualizado com sucesso.,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 2,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,2 itens processados de 2 totais para serem processados.,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,"Executando item, Tipo: Escola de Ingles, Cidade: São Paulo, SP.",NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,Escola de Ingles,INFO,Tentativa: 1,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Process Started,NONE
+2025-11-10 13:09:48,prj_BuscaEstabelecimento,-,INFO,Iniciou a pesquisa por viagens.,NONE
+2025-11-10 13:09:49,prj_BuscaEstabelecimento,-,INFO,"Preencheu pesquisa com: Escola de Ingles São Paulo, SP.",NONE
+2025-11-10 13:09:51,prj_BuscaEstabelecimento,-,INFO,Clicou em pesquisar.,NONE
+2025-11-10 13:09:56,prj_BuscaEstabelecimento,-,INFO,"A pesquisa Escola de Ingles São Paulo, SP retornou resultado.",NONE
+2025-11-10 13:09:56,prj_BuscaEstabelecimento,-,INFO,Iniciou captura de valores.,NONE
+2025-11-10 13:10:00,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:10:00,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Think English and more,NONE
+2025-11-10 13:10:00,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 5,0",NONE
+2025-11-10 13:10:00,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 4,NONE
+2025-11-10 13:10:00,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Av. Paulista, 2439 - Bela Vista, São Paulo - SP, 01311-300",NONE
+2025-11-10 13:10:00,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 1134934339,NONE
+2025-11-10 13:10:00,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://thinkenglish.com.br,NONE
+2025-11-10 13:10:05,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:10:05,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: IMULTI - Instituto Multicultural & Idiomas,NONE
+2025-11-10 13:10:06,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,8",NONE
+2025-11-10 13:10:06,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 24,NONE
+2025-11-10 13:10:06,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Rua Barão de Iguape, n°135 - 1°and - conj.2 - Liberdade, São Paulo - SP, 01507-000",NONE
+2025-11-10 13:10:06,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 11996629996,NONE
+2025-11-10 13:10:06,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://imulti.com.br,NONE
+2025-11-10 13:10:12,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:10:12,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: United Idiomas - Consolação,NONE
+2025-11-10 13:10:12,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,7",NONE
+2025-11-10 13:10:12,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 142,NONE
+2025-11-10 13:10:12,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Rua Haddock Lobo, 131 - Sala 101 - Consolação, São Paulo - SP, 01414-001",NONE
+2025-11-10 13:10:12,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 11937113469,NONE
+2025-11-10 13:10:12,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://unitedidiomas.com,NONE
+2025-11-10 13:10:17,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:10:17,prj_BuscaEstabelecimento,-,INFO,"Capturou o nome do estabelicimento: inFlux Pinheiros: Cursos de Inglês, Espanhol, Idiomas em São Paulo SP",NONE
+2025-11-10 13:10:17,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,9",NONE
+2025-11-10 13:10:17,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 100,NONE
+2025-11-10 13:10:17,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: R. Fradique Coutinho, 75 - Pinheiros, São Paulo - SP, 05416-010",NONE
+2025-11-10 13:10:17,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 1130813549,NONE
+2025-11-10 13:10:17,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://influx.com.br,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Seven Hub de Aprendizado Bilíngue - Unid. Augusta,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,8",NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 139,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: R. Augusta, 1449 - Consolação, São Paulo - SP, 01305-100",NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: None,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://sevenbilingue.com.br,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Realizou o carregamento da planilha: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110130817.xlsx,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Dados salvos com sucesso.,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Planilha gravada: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110130817.xlsx (sheet: Escola de Ingles),NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Finalizou relatorio de estabelecimentos.,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Item com ID 3 atualizado com sucesso.,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 1,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,3 itens processados de 1 totais para serem processados.,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,"Executando item, Tipo: Igreja Batista, Cidade: São Paulo, SP.",NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,Igreja Batista,INFO,Tentativa: 1,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Process Started,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,Iniciou a pesquisa por viagens.,NONE
+2025-11-10 13:10:22,prj_BuscaEstabelecimento,-,INFO,"Preencheu pesquisa com: Igreja Batista São Paulo, SP.",NONE
+2025-11-10 13:10:25,prj_BuscaEstabelecimento,-,INFO,Clicou em pesquisar.,NONE
+2025-11-10 13:10:28,prj_BuscaEstabelecimento,-,INFO,"A pesquisa Igreja Batista São Paulo, SP retornou resultado.",NONE
+2025-11-10 13:10:28,prj_BuscaEstabelecimento,-,INFO,Iniciou captura de valores.,NONE
+2025-11-10 13:10:34,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:10:34,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Igreja Batista São Paulo,NONE
+2025-11-10 13:10:34,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,8",NONE
+2025-11-10 13:10:34,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 34,NONE
+2025-11-10 13:10:34,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: R. Ferreira do Alentejo, 345 - Santo Amaro, São Paulo - SP, 04728-060",NONE
+2025-11-10 13:10:34,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 1156413399,NONE
+2025-11-10 13:10:34,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://batistasaopaulo.com.br,NONE
+2025-11-10 13:10:38,prj_BuscaEstabelecimento,-,INFO,Conteudo carregado.,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Capturou o nome do estabelicimento: Primeira Igreja Batista de São Paulo,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,"A quantidade de estrelas são: 4,8",NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,A quantidade de usuarios que avaliaram são: 267,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,"O endereço obtido: Pça. Princesa Isabel, 233 - Campos Elíseos, São Paulo - SP, 01206-010",NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Numero de telefone obtido: 11913450730,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Link do site obtido: http://pib.org.br,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Realizou o carregamento da planilha: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110130817.xlsx,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Dados salvos com sucesso.,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Planilha gravada: c:\rpa\treeinova\prj_treeinova\prj_BuscaEstabelecimento\resources\relatorios\Resultado_20251110130817.xlsx (sheet: Igreja Batista),NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Finalizou relatorio de estabelecimentos.,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Item com ID 4 atualizado com sucesso.,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,A quantidade de itens da fila para ser processados: 0,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Não há mais itens com status 'New'.,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Não existem itens a serem processados.,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,Loop Station Finished,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,End Process Started,NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,"Finalizando todos os processos, tentativa 1",NONE
+2025-11-10 13:10:39,prj_BuscaEstabelecimento,-,INFO,"Aplicativos finalizados, continuando processamento...",NONE
+2025-11-10 13:10:41,prj_BuscaEstabelecimento,-,INFO,Configurando SMTP do Gmail para envio,NONE
+2025-11-10 13:10:42,prj_BuscaEstabelecimento,-,INFO,SMTP do Gmail configurado com sucesso,NONE
+2025-11-10 13:10:44,prj_BuscaEstabelecimento,-,INFO,E-mail final com sucesso via Gmail,NONE
+2025-11-10 13:10:45,prj_BuscaEstabelecimento,-,INFO,Finalizando task.,NONE
+2025-11-10 13:10:45,prj_BuscaEstabelecimento,-,INFO,Task finalizada com sucesso.,NONE
+2025-11-10 13:10:45,prj_BuscaEstabelecimento,-,INFO,End Process Finished,NONE
